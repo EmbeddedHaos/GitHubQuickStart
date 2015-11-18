@@ -14,6 +14,4 @@ You could install [git](https://git-scm.com/) on your system and/or perhaps use 
 
 Get my preferred windows tool here : [GitPortable](https://github.com/sheabunge/GitPortable)
 
-Alternatively, you can download a [self-extracting zip file](https://github.com/EmbeddedHaos/GitHubQuickStart/blob/master/simpleClient/GitPortableQuickStart.exe?raw=true) i put together to get you going.
-
 OK, once you've gotten an environment setup, test it and let me know once you have got it working.
