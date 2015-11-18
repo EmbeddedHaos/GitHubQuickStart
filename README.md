@@ -10,6 +10,8 @@ Site to visit : https://github.com/join
 
 ### Once account is setup:
 
+Send me a message with your account handle and i will add you as a contributor to the [GitHub Oranization Group](https://github.com/EwhaEmbeddedSoftwareSystems). 
+
 You could install [git](https://git-scm.com/) on your system and/or perhaps use one of the many [git clients](https://git-scm.com/download/gui/linux), but i find it much easier to use a portable version of the system as i can put it wherever i need it and blow it away when i am done with it.
 
 Get my preferred windows tool here : [GitPortable](https://github.com/sheabunge/GitPortable)
