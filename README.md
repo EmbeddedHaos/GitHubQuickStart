@@ -11,4 +11,4 @@ This is a [repo](http://readwrite.com/2013/09/30/understanding-github-a-journey-
 * Cross-platform agile.
 * A required tool-set in any modern software development environment.
 
-So let get going. Click [here]( http://embeddedhaos.github.io/GitHubQuickStart) for the'how-to.
+So let get going. Click [here]( http://embeddedhaos.github.io/GitHubQuickStart/howTo/) for the'how-to.
